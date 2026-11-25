@@ -1,0 +1,27 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Archivos de producción
+dist/
+build/
+.vite/
+
+# Variables de entorno
+.env
+.env.local
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+
+# --- MIS ARCHIVOS PERSONALES (No subir) ---
+Readmeprohibido.md
